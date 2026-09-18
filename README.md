@@ -17,11 +17,7 @@ and other materials used throughout the class.
 
 The course is organized into the following modules.
 
-| Session | Topics |
-|---|---|
-## Course contents
-
-| Session | Title |
+| Session | Topic |
 |---|---|
 | **01** | Python Environments and Best Practices, AI-assisted coding tools |
 | **02** | Advanced Control Flow and Data Structures |
