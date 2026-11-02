@@ -33,24 +33,7 @@ marp: true
 </center>
 
 ---
-### Datasources for NLP
 
-<center><img width="1000px" src="./imgs/course1/wooclap.png"/></center>
-
----
-### But also ..
-<br/>
-
-<center>
-<img height="450px" src="./imgs/course1/datasources_nlp.png"/>
-</center>
-
----
-### What is NLP?
-
-<center><img width="1000px" src="./imgs/course1/wooclap.png"/></center>
-
----
 
 ### NLP in recent years
 
@@ -67,7 +50,7 @@ marp: true
 
 ---
 
-### NLP in 2025
+### NLP in 2026
 
 <center>
 <img width="900px" src="./imgs/course1/copilot.png"/>
@@ -75,16 +58,8 @@ marp: true
 
 ---
 
-### NLP in 2025
-> *A picture of the computer science school EPITA, with the school logo on a banner.*
 
-<center>
-<img width="350px" src="./imgs/course1/epita_gen.jpeg"/>
-</center>
-
----
-
-### NLP in 2025
+### NLP in 2026
 <center>
 <img width="900px" src="./imgs/course1/google.png"/>
 </center>
@@ -92,7 +67,7 @@ marp: true
 
 ---
 
-### NLP in 2025
+### NLP in 2026
 
 <center>
 <img width="850px" src="./imgs/course1/knowgraph_hp.png"/>
@@ -100,13 +75,6 @@ marp: true
 
 ---
 
-### NLP perspectives
-
-<center>
-<img width="1000px" src="./imgs/course1/game_agents.png"/>
-</center>
-
----
 <!--_class: lead -->
 # So, is NLP solved? <h6>(No.)</h6>
 
